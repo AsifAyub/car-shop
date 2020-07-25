@@ -1,0 +1,37 @@
+body{
+    padding: 0;
+    margin: 0;
+    
+}
+.sidebarbox{
+    width: 300px;
+    padding:10px;
+    margin: 50px 10px;
+    background-color: #DCDCDC;
+    border-radius: 10px;
+    
+}
+.p{
+    margin: 50px 20px;
+    margin-bottom: 1rem;
+    padding: 15px;
+    max-width: 700px;
+}
+.form{
+    margin: auto;
+    padding:30px;
+    max-width: 450px;
+}
+.heading2{
+    text-align: center;
+    margin-top: 25px;
+}
+.place_add_css{
+    margin: 20px;
+    padding:15px;
+}
+.cars_list_table{
+    margin: 25px;
+    padding: 30px;
+    
+}
